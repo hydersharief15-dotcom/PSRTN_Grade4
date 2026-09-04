@@ -1,0 +1,20 @@
+{
+  "subjects": [
+    { "id": "mathematics", "label": "Mathematics" },
+    { "id": "science", "label": "Science" },
+    { "id": "social-studies", "label": "Social Science" },
+    { "id": "english", "label": "English" },
+    { "id": "kannada", "label": "Kannada" },
+    { "id": "computer", "label": "Computer" },
+    { "id": "other", "label": "Other" }
+  ],
+  "notes": [
+		{ "title": "Chapter 1 - Food and Health", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/food_and_health.pdf" },
+		{ "title": "My Teeth", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/My_Teeth.pdf" },
+		{ "title": "Matter and it's three States", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/matter_and_its_ three_states.pdf" },
+		{ "title": "Our Green World", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/our_green_world.pdf" },
+		{ "title": "why do we have seasons", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/why do we have seasons.pdf" },
+
+
+]
+}
