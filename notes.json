@@ -12,8 +12,45 @@
 		{ "title": "Chapter 1 - Food and Health", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/food_and_health.pdf" },
 		{ "title": "My Teeth", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/My_Teeth.pdf" },
 		{ "title": "Matter and it's three States", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/matter_and_its_ three_states.pdf" },
-		{ "title": "Our Green World", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/our_green_world.pdf" }
+		{ "title": "Our Green World", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/our_green_world.pdf" },
+ {
+      "title": "Seeds CW",
+      "subject": "english",
+      "date": "2026-09-04",
+      "file": "pdfs/english/Seeds.pdf"
+    },
+    {
+      "title": "Summer Sun CW",
+      "subject": "english",
+      "date": "2026-09-04",
+      "file": "pdfs/english/Summer_sun_CW.pdf"
+    },
+    {
+      "title": "The Magic Wardrobe CW",
+      "subject": "english",
+      "date": "2026-09-04",
+      "file": "pdfs/english/The_magic_wardrobe.pdf"
+    },
 
+    {
+      "title": "The Mark of a Champion CW",
+      "subject": "english",
+      "date": "2026-09-04",
+      "file": "pdfs/english/The_mark_of_a_champion.pdf"
+	},
+	 
+    {
+      "title": "The Visitt to the mansion CW",
+      "subject": "english",
+      "date": "2026-09-04",
+      "file": "pdfs/english/The_visit_to_the_mansion.pdf"
+    },
 
+    {
+      "title": "Unke Munke Timpetoo CW",
+      "subject": "english",
+      "date": "2026-09-04",
+      "file": "pdfs/english/Unke_Munke_timpetoo.pdf"
+	} 
 ]
 }
