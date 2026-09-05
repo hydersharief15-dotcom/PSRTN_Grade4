@@ -111,6 +111,22 @@
 
       "date": "2026-09-04",
       "file": "pdfs/kannada/hallu tapasane.pdf"
+    },
+	    {
+      "title": "Solution Western Desert WS",
+      "subject": "social_studies",
+      "topic":"Worksheets_school",
+
+      "date": "2026-09-04",
+      "file": "pdfs/social_studies/SST_western-desert-solved-worksheet.pdf"
+	},
+	    {
+      "title": "Western Desert WS",
+      "subject": "social_studies",
+      "topic":"Worksheets_school",
+
+      "date": "2026-09-04",
+      "file": "pdfs/social_studies/SST_PracticeWorksheet_WesternDesert.pdf"
     }
 
 ]
