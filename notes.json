@@ -1,6 +1,6 @@
 {
   "subjects": [
-    { "id": "mathematics", "label": "Mathematics" },
+    { "id": "maths", "label": "Mathematics" },
     { "id": "science", "label": "Science" },
     { "id": "social-studies", "label": "Social Science" },
     { "id": "english", "label": "English" },
