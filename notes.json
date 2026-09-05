@@ -5,8 +5,8 @@
     { "id": "social-studies", "label": "Social Science" },
     { "id": "english", "label": "English" },
     { "id": "kannada", "label": "Kannada" },
-    { "id": "computer", "label": "Computer" },
-    { "id": "other", "label": "Other" }
+    { "id": "hindi", "label": "Hindi" },
+    { "id": "computers", "label": "Computers" }
   ],
   "notes": [
 		{ "title": "Chapter 1 - Food and Health", "subject": "science", "topic": "class notes", "date": "2026-09-01", "file": 	"pdfs/science/class notes/food_and_health.pdf" },
