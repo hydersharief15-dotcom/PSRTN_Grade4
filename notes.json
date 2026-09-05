@@ -85,6 +85,33 @@
 
       "date": "2026-09-04",
       "file": "pdfs/maths/textbook_exercises/symmetry-patterns-exercise-solutions.pdf"
-	} 
+	},
+	 
+    {
+      "title": "Savira Kambagalagona",
+      "subject": "kannada",
+      "topic":"Advanced",
+
+      "date": "2026-09-04",
+      "file": "pdfs/kannada/savira_kambagalagona.pdf"
+    },
+
+    {
+      "title": "Jeeva Dayee CW",
+      "subject": "kannada",
+      "topic":"Advanced",
+
+      "date": "2026-09-04",
+      "file": "pdfs/kannada/jeeva_daye.pdf"
+	},
+	    {
+      "title": "Hallu Tapasane",
+      "subject": "kannada",
+      "topic":"Advanced",
+
+      "date": "2026-09-04",
+      "file": "pdfs/kannada/hallu tapasane.pdf"
+    }
+
 ]
 }
