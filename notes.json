@@ -51,6 +51,40 @@
       "subject": "english",
       "date": "2026-09-04",
       "file": "pdfs/english/Unke_Munke_Timpetoo_CW.pdf"
+	},
+	{
+      "title": "Division Exercise Solutions",
+      "subject": "english",
+      "topic":"textbook_exercises"
+      "date": "2026-09-04",
+      "file": "pdfs/maths/textbook_exercises/Division-exercise-solutions.pdf"
+	},
+	 
+    {
+      "title": "large-numbers-exercises-solutions",
+      "subject": "english",
+      "topic":"textbook_exercises"
+
+      "date": "2026-09-04",
+      "file": "pdfs/maths/textbook_exercises/large-numbers-exercises-solutions.pdf"
+    },
+	 
+    {
+      "title": "Subtraction Exercise Solutions",
+      "subject": "english",
+      "topic":"textbook_exercises"
+
+      "date": "2026-09-04",
+      "file": "pdfs/maths/textbook_exercises/subtraction-exercise-solutions.pdf"
+    },
+
+    {
+      "title": "Symmetry Patterns Exercise Solutions",
+      "subject": "english",
+      "topic":"textbook_exercises"
+
+      "date": "2026-09-04",
+      "file": "pdfs/maths/textbook_exercises/symmetry-patterns-exercise-solutions.pdf"
 	} 
 ]
 }
