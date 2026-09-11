@@ -127,6 +127,22 @@
 
       "date": "2026-09-04",
       "file": "pdfs/social_studies/SST_PracticeWorksheet_WesternDesert.pdf"
+    },
+	     {
+      "title": "Southern Plateau WS",
+      "subject": "social-studies",
+      "topic":"Worksheets_school",
+
+      "date": "2026-09-04",
+      "file": "pdfs/social_studies/SST_Worksheet2.pdf"
+    },
+	     {
+      "title": "Solution Southern Plateau WS",
+      "subject": "social-studies",
+      "topic":"Worksheets_school",
+
+      "date": "2026-09-04",
+      "file": "pdfs/social_studies/sst_worksheet2_solutions.pdf"
     }
 
 ]
